@@ -1,4 +1,4 @@
-# ij.start.canon - Connect with ij start canon
+# ij.start.canon 
 
 
  [![ij.start.canon](getstarteb.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
